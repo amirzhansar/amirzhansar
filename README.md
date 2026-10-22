@@ -3,8 +3,8 @@
 </a>
 
 <p align="center">
-  <a href="https://x.com/amirzhansar"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
-  <a href="https://t.me/amirzhansartayev"><img src="https://img.shields.io/badge/Telegram-21262d?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
+  <a href="https://x.com/amirzhansar"><img src="assets/btn-x.png" alt="X" height="36"></a>&nbsp;
+  <a href="https://t.me/amirzhansartayev"><img src="assets/btn-telegram.png" alt="Telegram" height="36"></a>
 </p>
 
 ## 💼 Work
