@@ -10,7 +10,6 @@
 ## 💼 Work
 
 ### Centras iHub
-**YEAR – present**
 
 QA engineering for web and mobile products: API and backend testing, frontend checks against design, load testing before releases, test cases and bug reports in Jira.
 
