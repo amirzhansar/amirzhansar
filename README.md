@@ -1,5 +1,5 @@
 <a href="https://github.com/amirzhansar">
-  <img src="assets/hero.png" alt="Bonjour, I am Amirzhan, better known as the bug hunter. QA Engineer at Centras iHub." width="100%">
+  <img src="assets/hero.png" alt="Bonjour, I am Amirzhan. QA Engineer at Centras iHub." width="100%">
 </a>
 
 <p align="center">
