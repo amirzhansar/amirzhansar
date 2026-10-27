@@ -15,23 +15,17 @@
 
 <br>
 
-## 💼 Work
-
-### Centras iHub
-
-QA engineering for web and mobile products: API and backend testing, frontend checks against design, load testing before releases, test cases and bug reports in Jira.
-
-### Projects
+## 💼 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/amirzhansar/ai-autotest-gen"><img src="assets/ai-autotest-gen.png" alt="ai-autotest-gen"></a>
-      <p><b><a href="https://github.com/amirzhansar/ai-autotest-gen">ai-autotest-gen</a></b> <a href="https://github.com/amirzhansar/ai-autotest-gen/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/amirzhansar/ai-autotest-gen.svg?variant=secondary&font=geist&size=xs&mode=dark"><img alt="ai-autotest-gen stars" src="https://shieldcn.dev/github/stars/amirzhansar/ai-autotest-gen.svg?variant=secondary&font=geist&size=xs&mode=light"></picture></a><br>Browser recording + test case → ready Playwright autotest. Powered by Gemini.</p>
+      <p><b><a href="https://github.com/amirzhansar/ai-autotest-gen">ai-autotest-gen</a></b><br>Browser recording + test case → ready Playwright autotest. Powered by Gemini.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/amirzhansar/fast-switch.lua"><img src="assets/fast-switch.png" alt="fast-switch.lua"></a>
-      <p><b><a href="https://github.com/amirzhansar/fast-switch.lua">fast-switch.lua</a></b> <a href="https://github.com/amirzhansar/fast-switch.lua/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/amirzhansar/fast-switch.lua.svg?variant=secondary&font=geist&size=xs&mode=dark"><img alt="fast-switch.lua stars" src="https://shieldcn.dev/github/stars/amirzhansar/fast-switch.lua.svg?variant=secondary&font=geist&size=xs&mode=light"></picture></a><br>Fast Switch for Neverlose (CS:GO): faster weapon switching via tickbase control and CUserCmd manipulation through FFI.</p>
+      <p><b><a href="https://github.com/amirzhansar/fast-switch.lua">fast-switch.lua</a></b><br>Fast Switch for Neverlose (CS:GO): faster weapon switching via tickbase control and CUserCmd manipulation through FFI.</p>
     </td>
   </tr>
 </table>
