@@ -1,36 +1,12 @@
-<div align="center">
+Hello, I am Amirzhan. QA Engineer at Centras iHub.
 
-<a href="https://github.com/amirzhansar">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero.png">
-    <img alt="Hello, I am Amirzhan. QA Engineer at Centras iHub: testing APIs, backends and frontends, and running load tests; off hours, UI/UX design and web security." src="assets/hero-light.png" width="100%">
-  </picture>
-</a>
+<img src="https://count.getloli.com/@amirzhansar?name=amirzhansar&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="profile views">
 
 <a href="https://x.com/amirzhansar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/X.svg?variant=secondary&font=geist&logo=x&mode=dark"><img alt="X" src="https://shieldcn.dev/badge/X.svg?variant=secondary&font=geist&logo=x&mode=light"></picture></a>
 <a href="https://t.me/amirzhansartayev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Telegram.svg?variant=secondary&font=geist&logo=telegram&mode=dark"><img alt="Telegram" src="https://shieldcn.dev/badge/Telegram.svg?variant=secondary&font=geist&logo=telegram&mode=light"></picture></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=dark"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=light"></picture></a>
+<a href="https://www.linkedin.com/in/amirzhansar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=dark"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=light"></picture></a>
 
-</div>
-
-<br>
-
-## 💼 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amirzhansar/ai-autotest-gen"><img src="assets/ai-autotest-gen.png" alt="ai-autotest-gen"></a>
-      <p><b><a href="https://github.com/amirzhansar/ai-autotest-gen">ai-autotest-gen</a></b><br>Browser recording + test case → ready Playwright autotest. Powered by Gemini.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amirzhansar/fast-switch.lua"><img src="assets/fast-switch.png" alt="fast-switch.lua"></a>
-      <p><b><a href="https://github.com/amirzhansar/fast-switch.lua">fast-switch.lua</a></b><br>Fast Switch for Neverlose (CS:GO): faster weapon switching via tickbase control and CUserCmd manipulation through FFI.</p>
-    </td>
-  </tr>
-</table>
-
-## 🧱 Stack
+## Stack
 
 <table>
   <tr>
@@ -55,11 +31,11 @@
   </tr>
   <tr>
     <td><b>AI</b></td>
-    <td><a href="https://claude.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Claude.svg?variant=secondary&font=geist&logo=claude&mode=dark"><img alt="Claude" src="https://shieldcn.dev/badge/Claude.svg?variant=secondary&font=geist&logo=claude&mode=light"></picture></a> <a href="https://gemini.google.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Gemini.svg?variant=secondary&font=geist&logo=googlegemini&mode=dark"><img alt="Gemini" src="https://shieldcn.dev/badge/Gemini.svg?variant=secondary&font=geist&logo=googlegemini&mode=light"></picture></a> <a href="https://github.com/features/copilot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/GitHub%20Copilot.svg?variant=secondary&font=geist&logo=githubcopilot&mode=dark"><img alt="GitHub Copilot" src="https://shieldcn.dev/badge/GitHub%20Copilot.svg?variant=secondary&font=geist&logo=githubcopilot&mode=light"></picture></a></td>
+    <td><a href="https://gemini.google.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Gemini.svg?variant=secondary&font=geist&logo=googlegemini&mode=dark"><img alt="Gemini" src="https://shieldcn.dev/badge/Gemini.svg?variant=secondary&font=geist&logo=googlegemini&mode=light"></picture></a> <a href="https://claude.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Claude.svg?variant=secondary&font=geist&logo=claude&mode=dark"><img alt="Claude" src="https://shieldcn.dev/badge/Claude.svg?variant=secondary&font=geist&logo=claude&mode=light"></picture></a> <a href="https://github.com/features/copilot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/GitHub%20Copilot.svg?variant=secondary&font=geist&logo=githubcopilot&mode=dark"><img alt="GitHub Copilot" src="https://shieldcn.dev/badge/GitHub%20Copilot.svg?variant=secondary&font=geist&logo=githubcopilot&mode=light"></picture></a></td>
   </tr>
   <tr>
     <td><b>Everyday</b></td>
-    <td><a href="https://www.atlassian.com/software/jira"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Jira.svg?variant=secondary&font=geist&logo=jira&mode=dark"><img alt="Jira" src="https://shieldcn.dev/badge/Jira.svg?variant=secondary&font=geist&logo=jira&mode=light"></picture></a> <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Git.svg?variant=secondary&font=geist&logo=git&mode=dark"><img alt="Git" src="https://shieldcn.dev/badge/Git.svg?variant=secondary&font=geist&logo=git&mode=light"></picture></a> <a href="https://workspace.google.com/products/sheets/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Google%20Sheets.svg?variant=secondary&font=geist&logo=googlesheets&mode=dark"><img alt="Google Sheets" src="https://shieldcn.dev/badge/Google%20Sheets.svg?variant=secondary&font=geist&logo=googlesheets&mode=light"></picture></a></td>
+    <td><a href="https://www.atlassian.com/software/jira"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Jira.svg?variant=secondary&font=geist&logo=jira&mode=dark"><img alt="Jira" src="https://shieldcn.dev/badge/Jira.svg?variant=secondary&font=geist&logo=jira&mode=light"></picture></a> <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Git.svg?variant=secondary&font=geist&logo=git&mode=dark"><img alt="Git" src="https://shieldcn.dev/badge/Git.svg?variant=secondary&font=geist&logo=git&mode=light"></picture></a> <a href="https://workspace.google.com/products/sheets/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Google%20Sheets.svg?variant=secondary&font=geist&logo=googlesheets&mode=dark"><img alt="Google Sheets" src="https://shieldcn.dev/badge/Google%20Sheets.svg?variant=secondary&font=geist&logo=googlesheets&mode=light"></picture></a> <a href="https://yaml.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/YAML.svg?variant=secondary&font=geist&logo=yaml&mode=dark"><img alt="YAML" src="https://shieldcn.dev/badge/YAML.svg?variant=secondary&font=geist&logo=yaml&mode=light"></picture></a></td>
   </tr>
 </table>
 
