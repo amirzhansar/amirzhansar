@@ -8,8 +8,9 @@
 <a href="https://www.linkedin.com/in/amirzhansar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=dark"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=light"></picture></a>
 </p>
 
-
+<p align="center">
 ## Stack
+</p>
 
 <table>
   <tr>
