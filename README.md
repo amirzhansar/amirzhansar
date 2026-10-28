@@ -8,20 +8,6 @@
 <a href="https://www.linkedin.com/in/amirzhansar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=dark"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&font=geist&logo=lu:Linkedin&mode=light"></picture></a>
 </p>
 
-## Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amirzhansar/ai-autotest-gen"><img src="assets/ai-autotest-gen.png" alt="ai-autotest-gen"></a>
-      <p><b><a href="https://github.com/amirzhansar/ai-autotest-gen">ai-autotest-gen</a></b><br>Browser recording + test case → ready Playwright autotest. Powered by Gemini.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amirzhansar/fast-switch.lua"><img src="assets/fast-switch.png" alt="fast-switch.lua"></a>
-      <p><b><a href="https://github.com/amirzhansar/fast-switch.lua">fast-switch.lua</a></b><br>Fast Switch for Neverlose (CS:GO): faster weapon switching via tickbase control and CUserCmd manipulation through FFI.</p>
-    </td>
-  </tr>
-</table>
 
 ## Stack
 
