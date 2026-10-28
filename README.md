@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/@amirzhansar?num=127001&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="127001">
+<img src="https://count.getloli.com/@amirzhansar?num=127001&theme=asoul&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="127001">
 
 <a href="https://x.com/amirzhansar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/X.svg?variant=secondary&font=geist&logo=x&mode=dark"><img alt="X" src="https://shieldcn.dev/badge/X.svg?variant=secondary&font=geist&logo=x&mode=light"></picture></a>
 <a href="https://t.me/amirzhansartayev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Telegram.svg?variant=secondary&font=geist&logo=telegram&mode=dark"><img alt="Telegram" src="https://shieldcn.dev/badge/Telegram.svg?variant=secondary&font=geist&logo=telegram&mode=light"></picture></a>
